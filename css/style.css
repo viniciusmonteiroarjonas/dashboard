@@ -10,6 +10,7 @@ nav.navbar{
 .main {
     display: flex;
     background-color: #ecf0f5;
+    overflow: hidden;
     min-height: calc(100vh - 52px);
 }
 
